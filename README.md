@@ -2,5 +2,5 @@
 
 my\_enpit
 
-Hello enpit!! (A-san)
+Hello enpit!! (A-san, B-san)
 New branch
